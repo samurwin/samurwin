@@ -8,18 +8,18 @@ As a web developer leveraging experience in graphic and web design, I am current
 
 ## 🌟 What's New with Me
 
-###🔭 I’m currently working on...
+### 🔭 I’m currently working on...
 **A French grammar website. [Check it out!](https://cahier-de-francais.herokuapp.com)**
 My family is French-Canadian, and although I grew up in Ontario and didn't learn the language it is very much a part of my family and history. About a year ago I started learning French and have begun this project to help with both my language and development skills!
 
-###🌱 I’m currently learning...
+### 🌱 I’m currently learning...
 * **Shopify Theme Development**
 * **TypeScript**
 
-###📚 I am a recent graduate from
+### 📚 I am a recent graduate from
 Full-stack Coding Bootcamp - University of Toronto SCS Bootcamps 2022
 
-###📫 How to reach me: 
+### 📫 How to reach me: 
 📩 [urwinsamantha@gmail.com](mailto:urwinsamantha@gmail.com)    💻 [My Website](https://smudesigns.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samanthaurwin)
