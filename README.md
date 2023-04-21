@@ -2,9 +2,11 @@
 
 I am currently working as a freelance web designer and developer, and working on side projects to build my skills in full-stack web development. 💪
 
-## I am open to new work!
 
-As a web developer leveraging experience in graphic and web design, I am currently seeking a job position as a web development.
+## 🔍 I am open to new work!
+
+As a web developer leveraging experience in graphic and web design, I am currently seeking a job position as a web developer.
+
 
 ## 🌟 What's New with Me
 
