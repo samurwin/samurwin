@@ -1,6 +1,6 @@
-## Hi there!👋 I’m Sam, a web designer and developer from the Greater Toronto Area.
+## Hi there!👋  I’m Sam, a web designer and developer from the GTA.
 
-I am currently working as a freelance web designer and developer, and working on side projects to build my skills as a web developer. 💪
+I am currently working as a freelance web designer and developer, and working on side projects to build my skills in full-stack web development. 💪
 
 ## I am open to new work!
 
