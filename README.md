@@ -18,7 +18,7 @@ As a web developer leveraging experience in graphic and web design, I am current
 * **TypeScript**
 
 ### 📚 I am a graduate from
-Full-stack Coding Bootcamp - University of Toronto SCS Bootcamps 2022
+Full-stack Coding Bootcamp - University of Toronto SCS Bootcamps
 
 ### 📫 How to reach me: 
 📩 [urwinsamantha@gmail.com](mailto:urwinsamantha@gmail.com)    
